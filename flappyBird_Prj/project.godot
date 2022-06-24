@@ -44,6 +44,10 @@ flap={
 
 pointing/emulate_touch_from_mouse=true
 
+[mono]
+
+export/export_assemblies_inside_pck=false
+
 [physics]
 
 common/enable_pause_aware_picking=true
